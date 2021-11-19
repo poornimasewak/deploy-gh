@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deploy-gh/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/deploy-gh/static/js/main.c170d8fc.chunk.js",
+    "main.js.map": "/deploy-gh/static/js/main.c170d8fc.chunk.js.map",
+    "runtime-main.js": "/deploy-gh/static/js/runtime-main.1edeb267.js",
+    "runtime-main.js.map": "/deploy-gh/static/js/runtime-main.1edeb267.js.map",
+    "static/js/2.9c233a5b.chunk.js": "/deploy-gh/static/js/2.9c233a5b.chunk.js",
+    "static/js/2.9c233a5b.chunk.js.map": "/deploy-gh/static/js/2.9c233a5b.chunk.js.map",
+    "static/js/3.be962756.chunk.js": "/deploy-gh/static/js/3.be962756.chunk.js",
+    "static/js/3.be962756.chunk.js.map": "/deploy-gh/static/js/3.be962756.chunk.js.map",
+    "index.html": "/deploy-gh/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/deploy-gh/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9c233a5b.chunk.js.LICENSE.txt": "/deploy-gh/static/js/2.9c233a5b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/deploy-gh/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1edeb267.js",
+    "static/js/2.9c233a5b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c170d8fc.chunk.js"
+  ]
+}
